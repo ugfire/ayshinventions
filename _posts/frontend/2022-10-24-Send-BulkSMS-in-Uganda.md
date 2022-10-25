@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title: "BIGEZO, The FREE POWER-HORSE Bulk SMS Software"
-desc: "FREE Bulk SMS Software Engine"
+desc: "FREE Bulk SMS Software Engine, Simply Buy Airtime"
 author: Alfred Ochola
 written-on: 2022-October-24
 ---
