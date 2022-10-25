@@ -1,6 +1,6 @@
 ## 1. The most reliable Bulk SMS Software in Uganda
 
-Bigezo software has proved to be one of the most reliable and lean software for sending Bulk SMS to recepients. The desktop application has been created specifically to serve Schools, Institutions, Hospitals, and any organization that needs it. 
+Bigezo software has proved to be one of the most reliable and lean software for sending Bulk SMS to recepients. The desktop application has been created specifically to serve Schools, Institutions, Hospitals, and any organization that needs it. Bigezo software is lean and has only relevant features, it is very easy to use.
 
 ### 2. The desktop application is FREE of charge.
 
