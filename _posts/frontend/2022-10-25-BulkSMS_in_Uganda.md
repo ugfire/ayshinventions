@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## 1. The most reliable Bulk SMS Software in Uganda
 
@@ -7,7 +7,7 @@ Bigezo software has proved to be one of the most reliable and lean software for 
 
 ### 2. The desktop application is FREE of charge.
 
-Bigezo is free to acquire, you don't pay any installation or maintenance fees. All you are required to do is to purchase airtime for your organization. The initial minimum airtime purchase is UGX 450,000 for 5,000 SMS in. This amount is paid during installation of the software only, but after that the minimum airtime purchase is UGX 90,000 worth 1,000 SMS.
+Bigezo is free to acquire, you don't pay any installation or maintenance fees. All you are required to do is to purchase airtime for your organization. The initial minimum airtime purchase is UGX 450,000 for 5,000 SMS in. The airtime works for both MTN and Airtel. This amount is paid during installation of the software only, but after that the minimum airtime purchase is UGX 90,000 worth 1,000 SMS.
 
 ![bigezoflier]({{site.baseurl}}/bigezoflier.jpg)
 
