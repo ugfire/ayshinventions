@@ -1,6 +1,6 @@
 body{
   
-    font-family: "century gothic", 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Roboto Flex', sans-serif, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin: 0px !important;
 }
 p{
@@ -128,20 +128,20 @@ border-bottom: 1px ridge #7c2d2d;
     min-width: 570px;
 }
    .h7{
-       font-size: 500% !important;
+       font-size: 300% !important;
        font-family: 'Times New Roman', Times, serif;
    }
 
    .h8{
-    font-size: 350% !important;
+    font-size: 230% !important;
   
 }
 
 .p8{
-    line-height: 9vh;
+    line-height: normal;
 }
 .p8{
-    font-size: 250% !important;
+    font-size: 150% !important;
  
 }
 }
@@ -158,25 +158,25 @@ border-bottom: 1px ridge #7c2d2d;
 
  
     .h7{
-        font-size: 800% !important;
+        font-size: 400% !important;
         font-family: 'Times New Roman', Times, serif;
     }
  
     .h8{
-     font-size: 500% !important;
+     font-size: 200% !important;
      
  }
  .p8{
-     font-size: 300% !important;
+     font-size: 200% !important;
      padding: 50px;
-     line-height: 9vh;
+     line-height: normal;
  }
  }
 
  @media (max-width:600px) {
  
     .h7{ text-align: left !important;
-        font-size: 230% !important;
+        font-size: 200% !important;
         font-family: 'Times New Roman', Times, serif;
         margin-bottom: 0px !important;
         padding-bottom: 0px !important;
