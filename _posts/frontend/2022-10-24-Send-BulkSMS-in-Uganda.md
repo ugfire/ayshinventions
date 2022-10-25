@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: "How to get more clients through your website"
+title: "BIGEZO, The FREE POWER-HORSE Bulk SMS Software"
 desc: "FREE Bulk SMS Software Engine"
 author: Alfred Ochola
 written-on: 2022-October-24
