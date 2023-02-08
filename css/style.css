@@ -3,8 +3,9 @@ body{
     font-family: 'Roboto Flex', sans-serif, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin: 0px !important;
 }
-p{
-
+.ayshitems{
+background-color: rgba(0, 0, 0, 0.4);
+padding: 20px;
 }
 .body{
     background:  #000 url('../images/bg/black-twill.png') !important;
